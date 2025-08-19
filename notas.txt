@@ -1,1 +1,1 @@
-"linea-conflictiva: original" 
+"linea-conflictiva: cambio 1" 
